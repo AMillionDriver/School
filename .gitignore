@@ -8,6 +8,11 @@ _site/
 .jekyll-metadata
 
 # Additional Ruby/bundler ignore for when you run: bundle install
+
+# Environment variables
+.env
+.env.local
+.env.*.local
 /vendor
 
 # Specific ignore for GitHub Pages
